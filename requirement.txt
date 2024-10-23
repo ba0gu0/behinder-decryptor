@@ -3,3 +3,5 @@ jawa
 pyshark
 pycryptodome
 RestrictedPython
+webbrowser
+jsonlines
