@@ -5,3 +5,4 @@ pycryptodome
 RestrictedPython
 webbrowser
 jsonlines
+flask
